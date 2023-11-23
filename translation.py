@@ -27,7 +27,7 @@ START_MESSAGE = """**Hi there {}**
 
 **- Made With 🤍 & Repors Issues By @profitlinks_admin -**"""
 
-HELP_MESSAGE = """"**Hey there! My name is {firstname} and I'm a link convertor and shortener bot here to make your work easier and help you earn more 💰.**
+HELP_MESSAGE = """**Hey there! My name is {firstname} and I'm a link convertor and shortener bot here to make your work easier and help you earn more 💰.**
 
 **I have a ton of handy features to help you out, such as:**
 
